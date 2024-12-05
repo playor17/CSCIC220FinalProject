@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kimla\\OneDrive\\Documents\\GitHub\\CSCIC220FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71DC5659-7440-85D8-629E-343822F92540}|Assembly-CSharp.csproj|c:\\users\\kimla\\onedrive\\documents\\github\\cscic220finalproject\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DC5659-7440-85D8-629E-343822F92540}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DC5659-7440-85D8-629E-343822F92540}|Assembly-CSharp.csproj|c:\\users\\kimla\\onedrive\\documents\\github\\cscic220finalproject\\assets\\scripts\\enemybee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DC5659-7440-85D8-629E-343822F92540}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DC5659-7440-85D8-629E-343822F92540}|Assembly-CSharp.csproj|c:\\users\\kimla\\onedrive\\documents\\github\\cscic220finalproject\\assets\\scripts\\enemyboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DC5659-7440-85D8-629E-343822F92540}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DC5659-7440-85D8-629E-343822F92540}|Assembly-CSharp.csproj|c:\\users\\kimla\\onedrive\\documents\\github\\cscic220finalproject\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DC5659-7440-85D8-629E-343822F92540}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DC5659-7440-85D8-629E-343822F92540}|Assembly-CSharp.csproj|c:\\users\\kimla\\onedrive\\documents\\github\\cscic220finalproject\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DC5659-7440-85D8-629E-343822F92540}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DC5659-7440-85D8-629E-343822F92540}|Assembly-CSharp.csproj|c:\\users\\kimla\\onedrive\\documents\\github\\cscic220finalproject\\assets\\scripts\\playerwithgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DC5659-7440-85D8-629E-343822F92540}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerwithgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DC5659-7440-85D8-629E-343822F92540}|Assembly-CSharp.csproj|c:\\users\\kimla\\onedrive\\documents\\github\\cscic220finalproject\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DC5659-7440-85D8-629E-343822F92540}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\kimla\\OneDrive\\Documents\\GitHub\\CSCIC220FinalProject\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\kimla\\OneDrive\\Documents\\GitHub\\CSCIC220FinalProject\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:24:59.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyBee.cs",
+              "DocumentMoniker": "C:\\Users\\kimla\\OneDrive\\Documents\\GitHub\\CSCIC220FinalProject\\Assets\\Scripts\\EnemyBee.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBee.cs",
+              "ToolTip": "C:\\Users\\kimla\\OneDrive\\Documents\\GitHub\\CSCIC220FinalProject\\Assets\\Scripts\\EnemyBee.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:24:58.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\kimla\\OneDrive\\Documents\\GitHub\\CSCIC220FinalProject\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\kimla\\OneDrive\\Documents\\GitHub\\CSCIC220FinalProject\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:24:54.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\kimla\\OneDrive\\Documents\\GitHub\\CSCIC220FinalProject\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\kimla\\OneDrive\\Documents\\GitHub\\CSCIC220FinalProject\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:24:52.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerwithGun.cs",
+              "DocumentMoniker": "C:\\Users\\kimla\\OneDrive\\Documents\\GitHub\\CSCIC220FinalProject\\Assets\\Scripts\\PlayerwithGun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerwithGun.cs",
+              "ToolTip": "C:\\Users\\kimla\\OneDrive\\Documents\\GitHub\\CSCIC220FinalProject\\Assets\\Scripts\\PlayerwithGun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerwithGun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:24:50.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\kimla\\OneDrive\\Documents\\GitHub\\CSCIC220FinalProject\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\kimla\\OneDrive\\Documents\\GitHub\\CSCIC220FinalProject\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:24:48.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyBoss.cs",
+              "DocumentMoniker": "C:\\Users\\kimla\\OneDrive\\Documents\\GitHub\\CSCIC220FinalProject\\Assets\\Scripts\\EnemyBoss.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBoss.cs",
+              "ToolTip": "C:\\Users\\kimla\\OneDrive\\Documents\\GitHub\\CSCIC220FinalProject\\Assets\\Scripts\\EnemyBoss.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBoss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:24:25.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
