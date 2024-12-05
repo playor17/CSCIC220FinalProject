@@ -38,14 +38,14 @@ Features
 6. Gun Mechanic: Players can pick up a gun to shoot enemies, adding depth to gameplay.
 
 ## References
-Sprites
-https://kenney.nl/assets/platformer-pack-redux
-https://kenney.nl/assets/platformer-art-requests
-Music
-Denied Access - Density & Time
-https://www.youtube.com/watch?v=nm4mE1XZ9w8
-Everybody Get Up - Everet Almond
-https://www.youtube.com/watch?v=nUTfMokwrNc
+### Sprites
+- https://kenney.nl/assets/platformer-pack-redux
+- https://kenney.nl/assets/platformer-art-requests
+### Music
+- Denied Access - Density & Time
+- https://www.youtube.com/watch?v=nm4mE1XZ9w8
+- Everybody Get Up - Everet Almond
+- https://www.youtube.com/watch?v=nUTfMokwrNc
 
 ## Future Development
 - Add more levels that incorporate additional mechanics, such as inverted controls or time-rewinding abilities.
